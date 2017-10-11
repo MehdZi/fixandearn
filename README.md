@@ -1,2 +1,2 @@
-# fixandearn
-GitHub Pages
+# fix and earn
+Corporate company website
